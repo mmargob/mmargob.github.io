@@ -29,7 +29,7 @@ I am currently seeking opportunities in national security analysis, intelligence
 | Project | Description |
 |---|---|
 | [Khamenei Sentiment Analysis](https://github.com/mmargob/khamenei-sentiment-analysis) | NLP analysis of Khamenei's speeches as predictors of Iranian domestic unrest and Hezbollah proxy behavior |
-| [Nevada Voter Turnout Model](#) | Logistic regression predicting 2024 presidential turnout using 2.2M voter records |
+| [Nevada Voter Turnout Model](https://github.com/mmargob/nevada-voter-model) | Logistic regression predicting 2024 presidential turnout using 2.2M voter records |
 | [Gaza Protests & 2024 Election](https://github.com/mmargob/Second-Year-Project) | Three part empirical analysis investigating whether Gaza protest sentiment drove Harris underperformance |
 
 ---
