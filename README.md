@@ -6,11 +6,11 @@
 
 ## About Me
 
-I am a recent graduate of the University of Maryland with a Master's in Applied Political Analytics and a Bachelor's in Government and Politics. My work sits at the intersection of quantitative social science and national security, with a particular focus on Iranian political behavior, authoritarian signaling, and U.S.-Iran relations.
+I am a recent graduate of the University of Maryland with a Master’s in Applied Political Analytics and a Bachelor’s in Government and Politics. My work sits at the intersection of quantitative social science, electoral research, and national security policy, combining statistical modeling, natural language processing, and political theory to generate insights relevant to researchers, policymakers, and analysts.
 
-As an Iranian American, I bring both technical expertise and firsthand cultural and political understanding to research on Iran and the broader Middle East. I combine natural language processing, statistical modeling, and political theory to generate insights about authoritarian regimes, electoral behavior, and security dynamics relevant to policymakers and analysts.
+My research spans two primary areas. In election science, I have worked on voter turnout modeling, election administration quality, and the behavioral dynamics of electoral participation, including collaborative work with the MIT Election Data and Science Lab. In national security and foreign policy, I focus on Iranian political behavior, authoritarian signaling, and proxy conflict dynamics, drawing on both technical methods and my background as an Iranian American with firsthand cultural and political understanding of the region.
 
-I am currently seeking opportunities in national security analysis, intelligence research, and Iran focused policy work.
+I combine R, Python, SQL, and Power BI with substantive expertise in political institutions, survey methodology, and causal inference to produce rigorous, reproducible research. I am currently seeking opportunities in election science, political analytics, policy research, and national security analysis.
 
 ---
 
