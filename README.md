@@ -16,11 +16,12 @@ I combine R, Python, SQL, and Power BI with substantive expertise in political i
 
 ## Research Interests
 
+- Election science, election administration, and voter behavior
+- Voter turnout modeling and electoral participation
 - Iranian domestic politics and authoritarian signaling
-- U.S.-Iran relations and sanctions policy
-- Proxy conflict and Hezbollah behavior
-- Electoral analytics and voter behavior
-- NLP applied to political communication
+- U.S.-Iran relations, sanctions policy, and proxy conflict
+- Natural language processing applied to political communication
+- Survey methodology and causal inference in political research
 
 ---
 
